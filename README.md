@@ -1,26 +1,14 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My Very First Web Page
 
+Welcome!
 
-Hi there! Welcome to Cloud9 IDE!
+## Skills and Languages
+Developed using HTML and CSS.
 
-To get you started, we included a small hello world application.
+## Check out the final product
 
-1) Open the hello-world.html file
+https://albenakr.github.io/my-first-website/
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Description
+Exercise in developing a website. It shows the three steams of skills. 
+It showcasts the list of technologies to be learned, outlined in 3 streams. 
